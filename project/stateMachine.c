@@ -5,7 +5,7 @@
 
 char state1_lights(){
   green_on = 1;
-  red_on = 0;
+  red_on = 1;
   return 1;
 }
 
